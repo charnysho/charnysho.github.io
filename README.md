@@ -10,13 +10,13 @@ Actual time needed to complete: 40 min
 
 ### Number and name of feature: #2: Modify the contents
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1h 
 
 Start time: 12.20 PM
 
-Finish time: _____
+Finish time: 1 PM
 
-Actual time needed to complete: _____
+Actual time needed to complete: 40 min
 
 
 Prologue by HTML5 UP
