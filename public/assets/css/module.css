@@ -2118,9 +2118,16 @@ button,
       background-position: center center;
     }
 
-    #main > section.one {
-      background-color: #81918E;
-      background-image: url("../../images/banner.jpg");
+    #videoBG {
+      z-index: -1;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      left: 0;
+      margin: auto;
+      min-height: 50%;
+      min-width: 50%;
     }
 
     #main > section.two {
