@@ -1,3 +1,6 @@
+### Heroku link: 
+https://desolate-hamlet-26135.herokuapp.com
+
 ### Number and name of feature: #1: Refactor the CSS
 
 Estimate of time needed to complete: 1h
@@ -20,23 +23,23 @@ Actual time needed to complete: 40 min
 
 ### Number and name of feature: #3: Deployment
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 4h
 
-Start time: 12.40
+Start time: 12.40 am
 
-Finish time: 
+Finish time: 3 pm
 
-Actual time needed to complete: 
+Actual time needed to complete: 2.20h
 
 ### Number and name of feature: #4: Add functionality
 
-Estimate of time needed to complete: 
+Estimate of time needed to complete: 1h
 
-Start time: 
+Start time: 10 pm
 
-Finish time: 
+Finish time: 11 pm
 
-Actual time needed to complete: 
+Actual time needed to complete: 1h
 
 Prologue by HTML5 UP
 html5up.net | @ajlkn
