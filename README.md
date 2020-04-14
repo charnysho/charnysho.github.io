@@ -18,6 +18,25 @@ Finish time: 1 PM
 
 Actual time needed to complete: 40 min
 
+### Number and name of feature: #3: Deployment
+
+Estimate of time needed to complete: 
+
+Start time: 12.40
+
+Finish time: 
+
+Actual time needed to complete: 
+
+### Number and name of feature: #4: Add functionality
+
+Estimate of time needed to complete: 
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
 
 Prologue by HTML5 UP
 html5up.net | @ajlkn
