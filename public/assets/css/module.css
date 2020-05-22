@@ -1881,6 +1881,16 @@ button,
       font-size: 1em;
     }
 
+    .item img {
+      display: block;
+      opacity: 0.9;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      width: 30%;
+    }
+
 /* Icons */
 
 .icon {
@@ -2124,8 +2134,6 @@ button,
       top: 0;
       bottom: 0;
       right: 0;
-      left: 0;
-      margin: auto;
       min-height: 50%;
       min-width: 50%;
     }
